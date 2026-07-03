@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-06-26",
+    "exercises": [
+      { "exercise": "Bench Press", "sets": 3, "reps": 12, "weightKg": 60 },
+      { "exercise": "Overhead Press", "sets": 3, "reps": 12, "weightKg": 35 },
+      { "exercise": "Triceps Pushdown", "sets": 3, "reps": 15, "weightKg": 25 }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "exercises": [
+      { "exercise": "Deadlift", "sets": 3, "reps": 8, "weightKg": 110 },
+      { "exercise": "Lat Row (machine)", "sets": 3, "reps": 12, "weightKg": 55 },
+      { "exercise": "Dumbbell Biceps Curl", "sets": 3, "reps": 12, "weightKg": 14 }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "exercises": [
+      { "exercise": "Barbell Squat", "sets": 3, "reps": 10, "weightKg": 90 },
+      { "exercise": "Leg Curl", "sets": 3, "reps": 12, "weightKg": 40 },
+      { "exercise": "Standing Calf Raise", "sets": 3, "reps": 15, "weightKg": 60 }
+    ]
+  }
+]
