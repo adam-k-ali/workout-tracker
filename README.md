@@ -44,3 +44,11 @@ All inputs live in `src/data/` and are easy to edit:
 ```bash
 npm run typecheck
 ```
+
+## Testing
+
+```bash
+npm test                 # run all tests
+npm run test:watch       # watch mode
+npm run test:coverage    # run tests with coverage report
+```
