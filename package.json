@@ -1,0 +1,17 @@
+{
+  "name": "workout-planner",
+  "version": "1.0.0",
+  "description": "A simple rule-based TypeScript CLI that generates a weekly gym workout plan built around your favorite lifts, scheduled around planned runs, informed by previous workouts, and adapted to your current goal phase (cut then bulk).",
+  "type": "module",
+  "scripts": {
+    "plan": "tsx src/index.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

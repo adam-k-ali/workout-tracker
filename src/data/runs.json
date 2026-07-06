@@ -1,0 +1,6 @@
+[
+  { "day": "Tuesday", "type": "interval", "distanceKm": 8 },
+  { "day": "Thursday", "type": "tempo", "distanceKm": 10 },
+  { "day": "Saturday", "type": "long", "distanceKm": 20 },
+  { "day": "Sunday", "type": "easy", "distanceKm": 6 }
+]
